@@ -1,0 +1,10 @@
+LIBRARY	"XapDeployer"
+
+EXPORTS
+	Xap_BeginDeploy
+	Xap_IsInstalled
+	Xap_Install
+	Xap_WaitForEvents
+	Xap_DecodeState
+	Xap_EncodeState
+	Xap_EndDeploy
